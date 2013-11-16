@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: com.mountainminds.eclemma.ui; singleton:=true
+Bundle-Version: 2.2.2
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: com.mountainminds.eclemma.core,
+ org.eclipse.core.expressions,
+ org.eclipse.core.runtime,
+ org.eclipse.debug.ui,
+ org.eclipse.jdt.core,
+ org.eclipse.jdt.ui,
+ org.eclipse.jface.text,
+ org.eclipse.ui,
+ org.eclipse.ui.forms,
+ org.eclipse.ui.ide,
+ org.eclipse.ui.workbench.texteditor,
+ org.jacoco.core
+Bundle-Activator: com.mountainminds.eclemma.internal.ui.EclEmmaUIPlugin
+Export-Package: com.mountainminds.eclemma.internal.ui
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

@@ -1,0 +1,17 @@
+JRE_LIB=D\:/jdk1.6.0_45_32/jre/lib/rt.jar
+JRE_SRC=D\:/jdk1.6.0_45_32/src.zip
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/eclipse-SDK-3.8-win32/eclipse
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=E\:/jdk1.5.0_22/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=E\:/jdk1.5.0_22/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=D\:/eclipse-SDK-3.8-win32/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/
+org.eclipse.jdt.core.classpathVariable.JUNIT_SRC_HOME=D\:/eclipse-SDK-3.8-win32/eclipse/plugins/org.junit.source_3.8.2.v3_8_2_v20100427-1100.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/xie/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.5
+org.eclipse.jdt.core.compiler.compliance=1.5
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.5
