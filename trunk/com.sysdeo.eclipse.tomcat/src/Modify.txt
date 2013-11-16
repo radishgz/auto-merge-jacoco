@@ -1,0 +1,2 @@
+1、TomcatPreferencePage 屏蔽不用的TOMCAT
+2、增加coverage project

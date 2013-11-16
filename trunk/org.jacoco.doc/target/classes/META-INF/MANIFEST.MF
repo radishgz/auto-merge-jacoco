@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: xie
+Build-Jdk: 1.6.0_45
+Created-By: Maven Integration for Eclipse
+Eclipse-SourceReferences: scm:git:git://github.com/jacoco/jacoco.git;p
+ ath="org.jacoco.doc";commitId=${buildNumber}
+

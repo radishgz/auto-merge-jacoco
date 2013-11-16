@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: org.jacoco.agent.rt.internal.PreMain
+Implementation-Vendor: Mountainminds GmbH & Co. KG
+Implementation-Title: JaCoCo Java Agent
+Implementation-Version: 0.6.4-SNAPSHOT

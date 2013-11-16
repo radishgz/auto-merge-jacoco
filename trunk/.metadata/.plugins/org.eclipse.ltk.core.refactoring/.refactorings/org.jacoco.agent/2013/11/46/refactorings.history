@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jacocoagent.jar&apos; to &apos;jacocoagent.jar&apos;&#x0D;&#x0A;- Original project: &apos;org.jacoco.agent&apos;&#x0D;&#x0A;- Destination element: &apos;jacocoagent.jar&apos;&#x0D;&#x0A;- Original element: &apos;jacocoagent.jar&apos;" description="Copy file" element1="src/jacocoagent.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1384332870703" target="/org.jacoco.agent/src/jacocoagent.jar" units="0" version="1.0"/>
+</session>
