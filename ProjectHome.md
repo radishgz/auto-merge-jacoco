@@ -1,0 +1,6 @@
+对jacoco/eclemma的修改版本，适用于大型项目，跟踪文件变化并自动合并覆盖信息
+主要修改包括
+1、jacoco在运行完毕后对整个project进行扫描，对于大型项目，扫描时间过长，修改为只分析运行过的class
+2、jacoco默认是每次运行生产一份分析报告（session），如果使用同一session，不会跟踪分析java文件变化，修改为根据java文件变化，自动合并每次运行结果
+
+对sysdeo tomcat插件的修改，增加jacoco的调用
